@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/allouis/dom-components/issues"
   },
-  "homepage": "https://github.com/allouis/dom-components#readme"
+  "homepage": "https://github.com/allouis/dom-components#readme",
+  "dependencies": {
+    "bel": "^4.5.1"
+  }
 }
