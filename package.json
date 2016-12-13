@@ -1,0 +1,28 @@
+{
+  "name": "dom-components",
+  "version": "0.0.0",
+  "description": "A collection of basic DOM components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allouis/dom-components.git"
+  },
+  "keywords": [
+    "dom",
+    "component",
+    "chart",
+    "markup",
+    "morphdom",
+    "bel",
+    "yo-yo"
+  ],
+  "author": "Fabien O'Carroll <fabien@allou.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/dom-components/issues"
+  },
+  "homepage": "https://github.com/allouis/dom-components#readme"
+}
