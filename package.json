@@ -1,6 +1,6 @@
 {
   "name": "dom-components",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A collection of basic DOM components",
   "main": "index.js",
   "scripts": {
